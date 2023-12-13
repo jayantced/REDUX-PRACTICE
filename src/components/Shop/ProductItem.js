@@ -15,6 +15,8 @@ const ProductItem = (props) => {
       price,
       description
     }));
+    // console.log(id,title,
+    //   price,)
   }
 
   return (

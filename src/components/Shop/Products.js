@@ -11,7 +11,7 @@ const DUMMY_DATA = [
   {
     id: 'p2',
     price: 5,
-    title: 'Product 1',
+    title: 'Product 2',
     description: 'Product description'
   }
 ]
